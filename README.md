@@ -1,6 +1,6 @@
 # Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
-### Name : Aakashraj M
-### Reg.No : 212222100002
+### Name : THARUN KUMAR M
+### Reg.No : 212222100056
 ## AIM:
 To detect hidden data using steganography detection tools like StegExpose and analyze file signatures for authenticity and manipulation.
 
